@@ -12,6 +12,7 @@
 .calculator{
     background: brown;
     padding: 20px;
+    border-radius: 20px;
 }
 
 .calculator form input{
@@ -19,7 +20,7 @@
     outline: 0;
     width: 60px;
     height: 60px;
-    border-radius: 100%;
+    /* border-radius: 100%; */
     background: transparent;
     font-size: 20px;
     color: #ffff;
